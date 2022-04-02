@@ -8,6 +8,7 @@ const Home = () => {
                 flex: 1,
                 justifyContent: 'center',
                 alignItems: 'center',
+                backgroundColor: '#fff'
             }}
         >
             <Text>Home Screen</Text>
